@@ -1,0 +1,18 @@
+{
+  "demo-1": {
+    "id": "demo-1",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Basic Creatrue",
+        "type": false,
+        "cost": "1",
+        "image": "https://raw.githubusercontent.com/Kiba-Duelist/BetaGames/refs/heads/Multiwar/Basic%20Creature.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Beta Card",
+    "type": false,
+    "cost": "1"
+  }
+}
