@@ -90,6 +90,17 @@
                     }
                   ],
                   "isSymetricalForOpponents": true
+                },
+                {
+                  "direction": "column",
+                  "style": false,
+                  "content": [
+                    {
+                      "section": "Level?",
+                      "style": false
+                    }
+                  ],
+                  "isSymetricalForOpponents": true
                 }
               ]
             },
@@ -137,31 +148,8 @@
                   "direction": "row",
                   "content": [
                     {
-                      "section": "Spells_1",
-                      "style": {
-                        "marginRight": "4vh"
-                      }
-                    },
-                    {
-                      "section": "Spells_2",
-                      "style": {
-                        "marginRight": "4vh"
-                      }
-                    },
-                    {
-                      "section": "Spells_3",
-                      "style": {
-                        "marginRight": "4vh"
-                      }
-                    },
-                    {
-                      "section": "Spells_4",
-                      "style": {
-                        "marginRight": "4vh"
-                      }
-                    },
-                    {
-                      "section": "Spells_5"
+                      "section": "DMG_Field",
+                      "style": false
                     }
                   ]
                 }
